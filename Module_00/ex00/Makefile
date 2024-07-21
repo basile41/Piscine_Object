@@ -30,7 +30,7 @@ OBJS_PATH		=	objs/
 #############################################################################
 
 SRCS				=	main.cpp 		\
-						Ban.cpp 		\
+						Bank.cpp 		\
 						Account.cpp
 					
 
